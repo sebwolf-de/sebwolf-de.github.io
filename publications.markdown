@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# Chronological list of peer-reviewed papers
+## Chronological list of peer-reviewed papers
 
 | Title                                                                                                                  | DOI
 |------------------------------------------------------------------------------------------------------------------------|--------------------------------------------
@@ -12,7 +12,7 @@ permalink: /publications/
 | Optimization and Local Time Stepping of an ADER-DG Scheme for Fully Anisotropic Wave Propagation in Complex Geometries | <https://doi.org/10.1007/978-3-030-50420-5_3>
 | An efficient ADER-DG local time stepping scheme for 3D HPC simulation of seismic waves in poroelastic media            | <https://doi.org/10.1016/j.jcp.2021.110886>
 
-# Chronological list of conference contributions
+## Chronological list of conference contributions
 
 | Title                                                                                                                  | Conference                                          | Slides (at TUM)
 |------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------
