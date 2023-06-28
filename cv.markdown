@@ -8,9 +8,9 @@ permalink: /cv/
 
 * since 2019
 * Chair of Scientific Computing (I05) at TU Munich
-* I am one of the core developers of the earthquake simulator SeisSol.
+* I am one of the core developers of the earthquake simulator [SeisSol](https://github.com/SeisSol/SeisSol).
 * My reasearch interest lies in the intersection of applied mathematics, computer science and geophysics.
-* For more details, have a look at my publication list.
+* For more details, have a look at my [publication list]({% publications %}).
 
 ## University education
 
