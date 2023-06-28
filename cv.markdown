@@ -19,7 +19,7 @@ permalink: /cv/
 * Stays abroad:
   - NTNU Trondheim, Norway (summer term 2017)
   - University of Pavia (winter term 2018/19)
-  - 
+  
 ## B.Sc. Mathematics at TU Munich
 * 2013 - 2016
 
