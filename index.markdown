@@ -7,4 +7,4 @@ layout: home
 
 Hi, my name is Sebastian Wolf. I work as a research associate at the Technical University of Munich. 
 I mostly work on the HPC earthquake simulator [SeisSol](https://github.com/SeisSol/SeisSol).
-Also, have a look at [my page at TUM](https://www.cs.cit.tum.de/sccs/personen/personen/sebastian-wolf/).
+Also, have a look at [my page at TUM](https://www.cs.cit.tum.de/sccs/personen/sebastian-wolf/).
