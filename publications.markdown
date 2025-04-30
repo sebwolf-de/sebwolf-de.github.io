@@ -26,5 +26,9 @@ permalink: /publications/
 | 2023 | Parallel uncertainty quantification with fused simulations                                                             | SimTech 2023                                        | <https://mediatum.ub.tum.de/1725997>
 
 ## Doctoral thesis
+| Year | Title                                                                                                                                           | DOI
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------
+| 2023 | Numerical Simulations of Seismoacoustic Nuisance Patterns from an Induced M 1.8 Earthquake in the Helsinki, Southern Finland, Metropolitan Area | <https://doi.org/10.1785/0120220225>
+
 
 My doctoral thesis "High-Performance Earthquake Simulations with Advanced Material Models" is published at <https://mediatum.ub.tum.de/1729905>.
