@@ -4,6 +4,12 @@ title: Short CV
 permalink: /cv/
 ---
 
+## CPU Performance Developer Technology Engineer
+
+* since 2025
+* NVIDIA Germany
+* Improve the performance of datacenter workloads on the NVIDIA Grace ARM CPU
+
 ## Research Associate
 
 * 2019 - 2025
