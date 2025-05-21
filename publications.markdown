@@ -11,6 +11,7 @@ permalink: /publications/
 | 2020 | Higher-order time-stepping schemes for fluid-structure interaction problems                                            | <https://doi.org/10.3934/dcdsb.2020229>
 | 2020 | Optimization and Local Time Stepping of an ADER-DG Scheme for Fully Anisotropic Wave Propagation in Complex Geometries | <https://doi.org/10.1007/978-3-030-50420-5_3>
 | 2022 | An efficient ADER-DG local time stepping scheme for 3D HPC simulation of seismic waves in poroelastic media            | <https://doi.org/10.1016/j.jcp.2021.110886>
+| 2025 | 3D wave propagation and earthquake dynamic rupture simulations in complex poroelastic media                            | <https://doi.org/10.1093/gji/ggaf184>
 
 ## Chronological list of conference contributions
 
