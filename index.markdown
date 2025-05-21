@@ -9,4 +9,4 @@ Hi, my name is Sebastian Wolf. I work as a CPU performance developer technology 
 
 Before that, I did my doctorate at the Technical University of Munich. 
 I worked on the HPC earthquake simulator [SeisSol](https://github.com/SeisSol/SeisSol).
-Also, have a look at [my page at TUM](https://www.cs.cit.tum.de/sccs/personen/sebastian-wolf/).
+Also, have a look at [my Google Scholar page](https://scholar.google.com/citations?user=ToeTZGIAAAAJ&hl=de) or [my page at TUM](https://www.cs.cit.tum.de/sccs/personen/sebastian-wolf/) (might become outdated soon).
