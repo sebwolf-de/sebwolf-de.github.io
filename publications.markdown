@@ -28,9 +28,11 @@ permalink: /publications/
 
 ## Contributions as co-author
 
-| Year | Title                                                                                                                                           | DOI
-|------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------
-| 2023 | Numerical Simulations of Seismoacoustic Nuisance Patterns from an Induced M 1.8 Earthquake in the Helsinki, Southern Finland, Metropolitan Area | <https://doi.org/10.1785/0120220225>
+| Year | Title                                                                                                                                                       | DOI
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------
+| 2023 | Numerical Simulations of Seismoacoustic Nuisance Patterns from an Induced M 1.8 Earthquake in the Helsinki, Southern Finland, Metropolitan Area             | <https://doi.org/10.1785/0120220225>
+| 2025 | Training the Next Generation of Seismologists: Delivering Research‐Grade Software Education for Cloud and HPC Computing Through Diverse Training Modalities | <https://doi.org/10.1785/0220240413>
+
 
 ## Doctoral thesis
 
