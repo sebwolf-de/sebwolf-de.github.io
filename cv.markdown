@@ -8,22 +8,22 @@ permalink: /cv/
 
 * since 2025
 * NVIDIA Germany
-* Improve the performance of datacenter workloads on the NVIDIA Grace ARM CPU
+* I improve the performance of datacenter workloads on the NVIDIA Grace CPU and on Grace Hopper/Grace Blackwell system.
 
 ## Research Associate
 
 * 2019 - 2025
 * In May 2024, I obtained my Dr.rer.nat. from the Technical University of Munich for my thesis "High-Performance Earthquake Simulations with Advanced Material Models".
-* Chair of Scientific Computing (I05) at Technical University of Munich
-* I am one of the core developers of the earthquake simulator [SeisSol](https://github.com/SeisSol/SeisSol).
-* My reasearch interest lies in the intersection of applied mathematics, computer science and geophysics.
+* I worked aa the Chair of Scientific Computing (I05) at Technical University of Munich under the supervision of Prof. Michael Bader.
+* I was one of the core developers of the earthquake simulator [SeisSol](https://github.com/SeisSol/SeisSol).
+* My reasearch interest laid in the intersection of applied mathematics, computer science and geophysics.
 * For more details, about what I did at TUM, have a look at my publication list.
 
 ## University education
 
 ### M.Sc. Mathematics at Technical University of Munich
 * 2016 - 2019
-* Stays abroad:
+* During my studies, I've spent two semesters abroad:
   - NTNU Trondheim, Norway (summer term 2017)
   - University of Pavia (winter term 2018/19)
   
