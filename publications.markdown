@@ -33,7 +33,7 @@ permalink: /publications/
 | 2023 | Numerical Simulations of Seismoacoustic Nuisance Patterns from an Induced M 1.8 Earthquake in the Helsinki, Southern Finland, Metropolitan Area                               | <https://doi.org/10.1785/0120220225>
 | 2025 | Training the Next Generation of Seismologists: Delivering Research‐Grade Software Education for Cloud and HPC Computing Through Diverse Training Modalities                   | <https://doi.org/10.1785/0220240413>
 | 2025 | A Discontinuous Galerkin Method for Simulating 3D Seismic Wave Propagation in Nonlinear Rock Models: Verification and Application to the Mw 7.8 2015 Gorkha, Nepal Earthquake | <https://doi.org/10.1029/2025JB031378>
-| 2025 | Scalable Bayesian Inference of Large Simulations via Asynchronous Prefetching Multilevel Delayed Acceptance                                                                   | <https://doi.org/10.1145/3732775.373358>
+| 2025 | Scalable Bayesian Inference of Large Simulations via Asynchronous Prefetching Multilevel Delayed Acceptance                                                                   | <https://doi.org/10.1145/3732775.3733581>
 
 
 ## Doctoral thesis
